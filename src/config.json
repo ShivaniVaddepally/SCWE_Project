@@ -1,0 +1,7 @@
+{
+  "random_state": 42,
+  "n_splits": 5,
+  "validation_size": 0.2,
+  "imbalance_ratio": 1.0,
+  "calibration_method": "isotonic"
+}
